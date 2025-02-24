@@ -8,6 +8,10 @@ Bitcoin Price Calculator is a web application that allows users to calculate the
 - **Instant Calculation**: Users can input a value to see the equivalent amount in Bitcoin.
 - **Historical Price Chart**: Clicking the box opens a chart displaying the last 10 recorded prices.
 
+## Screenshots
+![Image1](./public/Screenshot%202025-02-23%20at%2011.43.59 PM.png)
+![Image1](./public/Screenshot%202025-02-23%20at%2011.44.31 PM.png)
+
 ## Technologies Used
 - **Frontend**: React, TypeScript, Vite
 - **State Management**: React State + TanStack Query
